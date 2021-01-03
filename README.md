@@ -1,5 +1,7 @@
 # Big_Data_Medical_Care-Fraud_Detection
 INTRODUCTION
+
+
 Healthcare is a significant industry in the U.S. with both private and government run programs. The expenses of medicinal services keep on ascending, to some degree because of the expanding populace of the old. U.S. health insurance spending from 2012 to 2014 has expanded by 6.7% to reach $3 trillion and Medicare spending represents 20% of all human services spending in the U.S. at about $600 billion. 
 This rising older populace, joined with the expanded expenses of Medicare, need cost-cutting arrangements, where the decrease in misrepresentation is one approach to help recuperate costs and diminish by and large installments. The effect of health care extortion is evaluated to be between 3% to 10% of the country's absolute human services spending and proceeding to antagonistically affect the Medicare program and its recipients (NHCAA 2017). 
 Government has introduced the projects, for example, the Medicare Fraud Strike Force (OIG 2017), authorized to help battle misrepresentation, however proceeded with endeavours are expected to more likely alleviate the impacts of extortion. These are our task's essential presentation and foundation; likewise, it shows that there are immense business open doors for Medicare Fraud Detection frameworks.
