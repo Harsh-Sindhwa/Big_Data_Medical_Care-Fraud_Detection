@@ -1,4 +1,4 @@
-# Big_Data_Medical_Care-Fraud_Detection
+# Big_Data_Medical_Care_Fraud_Detection
 
 # INTRODUCTION
 
